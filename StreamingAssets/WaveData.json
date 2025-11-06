@@ -302,140 +302,140 @@
                 {
                     "display": "23 x 15",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "340", "350", "335" ],
                     "correct": [ "345" ]
                 },
                 {
                     "display": "18 x 27",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "481", "491", "476" ],
                     "correct": [ "486" ]
                 },
                 {
                     "display": "34 x 16",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "539", "549", "534" ],
                     "correct": [ "544" ]
                 },
                 {
                     "display": "29 x 24",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "691", "701", "686" ],
                     "correct": [ "696" ]
                 },
                 {
                     "display": "42 x 19",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "793", "803", "788" ],
                     "correct": [ "798" ]
                 },
                 {
                     "display": "35 x 22",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "765", "775", "760" ],
                     "correct": [ "770" ]
                 },
                 {
                     "display": "26 x 31",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "801", "811", "796" ],
                     "correct": [ "806" ]
                 },
                 {
                     "display": "47 x 18",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "841", "851", "836" ],
                     "correct": [ "846" ]
                 },
                 {
                     "display": "33 x 28",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "919", "929", "914" ],
                     "correct": [ "924" ]
                 },
                 {
                     "display": "38 x 25",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "945", "955", "940" ],
                     "correct": [ "950" ]
                 },
                 {
                     "display": "44 x 23",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "1007", "1017", "1002" ],
                     "correct": [ "1012" ]
                 },
                 {
                     "display": "27 x 36",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "967", "977", "962" ],
                     "correct": [ "972" ]
                 },
                 {
                     "display": "39 x 21",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "814", "824", "809" ],
                     "correct": [ "819" ]
                 },
                 {
                     "display": "32 x 29",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "923", "933", "918" ],
                     "correct": [ "928" ]
                 },
                 {
                     "display": "45 x 26",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "1165", "1175", "1160" ],
                     "correct": [ "1170" ]
                 },
                 {
                     "display": "37 x 32",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "1179", "1189", "1174" ],
                     "correct": [ "1184" ]
                 },
                 {
                     "display": "28 x 41",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "1143", "1153", "1138" ],
                     "correct": [ "1148" ]
                 },
                 {
                     "display": "46 x 24",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "1099", "1109", "1094" ],
                     "correct": [ "1104" ]
                 },
                 {
                     "display": "31 x 35",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "1080", "1090", "1075" ],
                     "correct": [ "1085" ]
                 },
                 {
                     "display": "43 x 27",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": [ "1156", "1166", "1151" ],
                     "correct": [ "1161" ]
                 }
